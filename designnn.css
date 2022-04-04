@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
+
+
+body{
+    background-image: linear-gradient(to right, rgb(0, 17, 255), rgb(0, 183, 255) , rgb(173, 36, 253));
+    font-family: "Hubballi";
+    font-size: 25px;
+    color: white;
+}
+
+main{
+    border-radius: 5px;
+    background-color: rgb(252, 252, 252);
+    padding: 5px;
+    margin-top: 200px;
+    margin-left: 700px;
+    margin-right: 690px;
+}
+
+.calculos{
+    border: 10px;
+    background: rgb(173, 36, 253);
+    padding: 25px;
+}
+
+button{
+    color: rgb(173, 36, 253);
+    background-color: rgb(255, 255, 255);
+    font-family: "Hubballi";
+    font-size: large;
+    border: 20px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+input{
+    color: rgb(173, 36, 253);
+    background-color: rgb(255, 255, 255);
+    font-family: "Hubballi";
+    font-size: large;
+    border: 20px;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 25px;
+    padding-left: 10px;
+}
